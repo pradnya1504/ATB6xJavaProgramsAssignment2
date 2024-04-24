@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 public class Lab001 {
     public static void main(String[] args) {
         int a =12,b=15,c=999;
