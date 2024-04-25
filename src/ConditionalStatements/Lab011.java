@@ -8,7 +8,7 @@ public class Lab011 {
         int num1 = sc.nextInt();
         System.out.println("Enter second number");
         int num2 = sc.nextInt();
-        System.out.println("What do you want to do");
+        System.out.println("Which operation do you want to perform?");
         char ch = sc.next().charAt(0);
         int result;
         switch (ch) {
